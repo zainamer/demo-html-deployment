@@ -9,7 +9,8 @@
    background-position: center;
    background-size: cover;
    background-attachment: fixed;
-   min-height: 100vh;
+   max-height: 100vh;
+   max-width: 100%;
    padding-top: 1px;
    /*when margins  overlap*/
 
@@ -164,4 +165,5 @@ footer b{
       margin-left: 70px;
    }
    
+
 }
